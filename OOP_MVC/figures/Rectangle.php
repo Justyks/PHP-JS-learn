@@ -1,6 +1,6 @@
 <?php
 
-class Rectangle extends Figure
+class Rectangle implements Figure
 {
     private $a;
     private $b;

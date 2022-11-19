@@ -1,6 +1,6 @@
 <?php
 
-class Square extends Figure
+class Square implements Figure
 {
     private $a;
 
